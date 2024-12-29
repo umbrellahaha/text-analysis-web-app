@@ -1,0 +1,7 @@
+pyecharts
+requests
+beautifulsoup4
+jieba
+streamlit
+pandas
+
